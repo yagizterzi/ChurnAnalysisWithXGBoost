@@ -3,6 +3,13 @@
 
 This project applies XGBoost, a powerful gradient boosting algorithm, to analyze and predict customer churn. The goal is to identify factors influencing customer retention and optimize predictive performance.
 
+## What is Churn and Why Do We Need to Analyze And Predict It
+
+Churn refers to the rate at which customers leave or stop using a bank’s services. In the banking sector, understanding churn is crucial because losing customers not only reduces revenue but also increases costs—acquiring new customers often costs more than retaining existing ones.churn analysis and prediction are essential tools for banks to maintain customer relationships, optimize costs, improve service offerings, and ultimately sustain long-term profitability.
+
+
+
+
 ## Features
 - Comprehensive Exploratory Data Analysis (EDA) to uncover churn patterns and insights
 - Data preprocessing and feature engineering
