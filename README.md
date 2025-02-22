@@ -31,10 +31,18 @@ Churn refers to the rate at which customers leave or stop using a bank’s servi
    ```
 
 ## Usage
-Run the main script to perform EDA, train the model, and evaluate its performance:
-```bash
-python churn_analysis.py
-```
+1. Run the main script to perform EDA, train the model, and evaluate its performance:
+  ```bash
+  python fullproject.py
+  ```
+2. Run save_deploy file
+    ```bash
+    python save_deploy.py
+    ```
+3. Lastly run the test file
+   ```bash
+   python test_api.py
+   ```
 
 ## Dependencies
 Ensure the following libraries are installed:
