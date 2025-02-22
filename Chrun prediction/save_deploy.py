@@ -132,7 +132,7 @@ def deploy_model(model, feature_names, scaler):
 
 # Modify the main block
 if __name__ == "__main__":
-    df=pd.read_csv(r'C:\Users\yagiz\OneDrive\Masaüstü\Uygulamalar\kodlar\Chrun prediction\dataset\Churn_Modelling.csv')
+    df=pd.read_csv('Churn_Modelling.csv')
     
     df_processed = preprocess_bank_data(df)
     
