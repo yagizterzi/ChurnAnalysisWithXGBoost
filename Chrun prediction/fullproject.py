@@ -10,7 +10,7 @@ import os
 import joblib
 
 
-df=pd.read_csv(r'C:\Users\yagiz\OneDrive\Masaüstü\Uygulamalar\kodlar\Chrun prediction\dataset\Churn_Modelling.csv')
+df=pd.read_csv('Churn_Modelling.csv')
 #First look into data
 print(df.head(10))
 print("Dataset Shape:", df.shape)
